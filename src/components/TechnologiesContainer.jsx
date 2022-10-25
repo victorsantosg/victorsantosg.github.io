@@ -1,3 +1,4 @@
+import React from 'react';
 import {
     DiHtml5,
     DiCss3,
@@ -18,7 +19,7 @@ const technologies = [
     { id: "react", name: "React", icon: <DiReact /> },
 ];
 
-const TechnologiesContainer = () => {
+function TechnologiesContainer () {
     return <section className="technologies-container">
         <h2>Tecnologias</h2>
         <div className="technologies-grid">

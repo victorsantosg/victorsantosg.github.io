@@ -1,3 +1,4 @@
+import React from 'react';
 import {FaLinkedinIn, FaGithub, FaInstagram} from 'react-icons/fa';
 
 import "../styles/components/socialnetworks.sass";
@@ -8,7 +9,7 @@ const socialNetworks = [
     {name: "instagram", icon: <FaInstagram/>},
 ]
 
-const SocialNetworks = () => {
+function SocialNetworks = () => {
   return (
     <section id="social-networks">
         {socialNetworks.map((network)=> (
