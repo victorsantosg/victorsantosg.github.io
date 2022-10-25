@@ -9,7 +9,7 @@ const socialNetworks = [
     {name: "instagram", icon: <FaInstagram/>},
 ]
 
-function SocialNetworks = () => {
+function SocialNetworks () {
   return (
     <section id="social-networks">
         {socialNetworks.map((network)=> (

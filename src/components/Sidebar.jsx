@@ -5,7 +5,7 @@ import '../styles/components/sidebar.sass';
 import InformationContainer from './InformationContainer';
 
 
-function Sidebar = () => {
+function Sidebar () {
   return <aside id="sidebar">
     <img src={Avatar} alt="Victor Peixoto" />
     <p className="title">Desenvolvedor</p>
