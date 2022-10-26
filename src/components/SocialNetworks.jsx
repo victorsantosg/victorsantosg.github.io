@@ -4,9 +4,9 @@ import {FaLinkedinIn, FaGithub, FaInstagram} from 'react-icons/fa';
 import "../styles/components/socialnetworks.sass";
 
 const socialNetworks = [
-    {name: "linkedin", icon: <FaLinkedinIn/>},
-    {name: "github", icon: <FaGithub/>},
-    {name: "instagram", icon: <FaInstagram/>},
+    {id: 1, name: "linkedin", icon: <FaLinkedinIn/>},
+    {id: 2, name: "github", icon: <FaGithub/>},
+    {id: 3, name: "instagram", icon: <FaInstagram/>},
 ]
 
 function SocialNetworks () {
