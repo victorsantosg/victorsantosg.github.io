@@ -11,12 +11,12 @@ import {
 import '../styles/components/technologiescontainer.sass';
 
 const technologies = [
-    { id: "html", name: "HTML5", icon: <DiHtml5 /> },
-    { id: "css", name: "CSS3", icon: <DiCss3 /> },
-    { id: "js", name: "JavaScript", icon: <DiJsBadge /> },
-    { id: "node", name: "Node.js", icon: <DiNodejsSmall /> },
-    { id: "mysql", name: "MySQL", icon: <DiMysql /> },
-    { id: "react", name: "React", icon: <DiReact /> },
+    { id: "html", name: "HTML5", icon: <DiHtml5 />, text: "Alguma coisa 1" },
+    { id: "css", name: "CSS3", icon: <DiCss3 />, text: "Alguma coisa 2"  },
+    { id: "js", name: "JavaScript", icon: <DiJsBadge />, text: "Alguma coisa 3"  },
+    { id: "node", name: "Node.js", icon: <DiNodejsSmall />, text: "Alguma coisa 4"  },
+    { id: "mysql", name: "MySQL", icon: <DiMysql />, text: "Alguma coisa 5" },
+    { id: "react", name: "React", icon: <DiReact />, text: "Alguma coisa 6" },
 ];
 
 function TechnologiesContainer () {
@@ -29,7 +29,7 @@ function TechnologiesContainer () {
                     <div className="technology-info">
                         <h3>{tech.name}</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                            {tech.text}
                         </p>
 
                     </div>
