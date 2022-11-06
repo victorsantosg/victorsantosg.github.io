@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/components/projectscontainer.sass';
+import ProjectsNoAr from "./ProjectsNoAr";
 
 const projectsall = [
   {id: 1, img: "public\contfinan2.png", link: "https://github.com/victorsantosg"},
@@ -16,6 +17,7 @@ function ProjectsContainer () {
       <a href={Filteredprojectsall.link} className='btn' id={Filteredprojectsall.id} key={Filteredprojectsall.id}>
       Projetos
       </a>
+      <ProjectsNoAr className="project-externo"/>
     </> 
   ))}
 

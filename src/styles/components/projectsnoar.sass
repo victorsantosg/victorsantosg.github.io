@@ -1,0 +1,23 @@
+@use '../variables'
+@use '../mixins'
+
+section
+    display: flex
+
+    .social-btn-2
+        flex-wrap: wrap
+        gap: 0,5rem
+        width: 33.33%
+
+    img
+        width: 250px
+
+        :hover
+        background: variables.$gradient
+
+
+        @media screen and (max-width: 500px) 
+            .social-btn-img 
+                width: 100%
+  
+
