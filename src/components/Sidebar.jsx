@@ -11,7 +11,7 @@ function Sidebar () {
     <p className="title">Desenvolvedor</p>
     <SocialNetworks/>
     <InformationContainer/>
-    <a href="https://drive.google.com/file/d/1BoXBMiT7CSLZUaVBaJbJesTVL20wUSxO/view?usp=sharing" className="btn">
+    <a href="https://drive.google.com/file/d/1rQyPGBBgJDPfbNDB-zuwSTo_XUbHTcf9/view?usp=sharing" className="btn">
         Download currículo
     </a>
   </aside>
