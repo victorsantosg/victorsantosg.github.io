@@ -3,6 +3,8 @@
 
 section
     display: flex
+    flex-wrap: wrap
+    justify-content: space-between
 
     .social-btn-2
         flex-wrap: wrap
@@ -17,6 +19,10 @@ section
 
 
         @media screen and (max-width: 500px) 
+            .social-btn-img 
+                width: 100%
+
+        @media screen and (max-width: 320px) 
             .social-btn-img 
                 width: 100%
   
