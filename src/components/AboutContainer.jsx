@@ -1,6 +1,18 @@
 import React from "react";
 
 function AboutContainer () {
+
+    <>{ /* Google tag (gtag.js) */ }
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LBYXQH5N40" />
+<script>{`
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LBYXQH5N40');
+`}
+</script></>
+
     return <section className="about-container">
         <h2>Sobre</h2>
 
@@ -22,7 +34,7 @@ function AboutContainer () {
             é continuar crescendo nesse mercado gigantesco. Estou aberto e disponível para novas oportunidades. Então sinta-se 
             a vontade em conversar sobre vagas comigo.
         </p>
-        
+
     </section>
 }
 
