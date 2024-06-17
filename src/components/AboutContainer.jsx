@@ -2,17 +2,6 @@ import React from "react";
 
 function AboutContainer () {
 
-    <>{ /* Google tag (gtag.js) */ }
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LBYXQH5N40" />
-<script>{`
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LBYXQH5N40');
-`}
-</script></>
-
     return <section className="about-container">
         <h2>Sobre</h2>
 
