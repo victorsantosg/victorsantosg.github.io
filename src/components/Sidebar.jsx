@@ -11,7 +11,7 @@ function Sidebar () {
     <p className="title">Desenvolvedor</p>
     <SocialNetworks/>
     <InformationContainer/>
-    <a href="https://heyzine.com/flip-book/bdf6afb78d.html" className="btn">
+    <a href="https://heyzine.com/flip-book/bdf6afb78d.html" target='_blank' className="btn">
         Download currículo
     </a>
   </aside>
