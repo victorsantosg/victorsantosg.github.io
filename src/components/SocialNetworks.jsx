@@ -14,7 +14,7 @@ function SocialNetworks () {
     <section id="social-networks">
         {socialNetworks.filter(network => network.id).map(filteredNetwork => (
           <>
-            <a href={filteredNetwork.link} className='social-btn' id={filteredNetwork.name} key={filteredNetwork.name}>
+            <a href={filteredNetwork.link} target='_blank' className='social-btn' id={filteredNetwork.name} key={filteredNetwork.name}>
             {filteredNetwork.icon}
             </a>
           </>
