@@ -1,10 +1,14 @@
 @use '../variables'
 @use '../mixins'
 
+section
+    flex-direction: inline
+
 #social-networks
     @include mixins.center
     gap: 1rem
     margin: 1rem 0
+    flex-direction: row
 
     .social-btn
         padding: .6rem

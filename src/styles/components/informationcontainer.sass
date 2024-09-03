@@ -3,7 +3,8 @@
 
 #information
     @include mixins.center
-    flex-direction: column
+    display: flex
+    flex-direction: inline
     background-color: variables.$bg-color-secondary
     padding: 1rem
     margin-bottom: 2rem
@@ -11,8 +12,13 @@
     width: 80%
     border-radius: variables.$card-border-radius
 
+    .section
+        flex-direction: inline
+
     .info-card
         @include mixins.center
+        display: flex
+        flex-direction: inline
         justify-content: start
         gap: 1rem
         padding-bottom: .8rem
@@ -30,7 +36,7 @@
         font-weight: bold
 
     .email-vic
-        font-size: 12px 
+        font-size: 12px  
     
     svg
         background-color: variables.$bg-color
