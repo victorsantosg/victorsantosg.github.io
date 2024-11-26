@@ -5,23 +5,17 @@ function AboutContainer () {
     return <section className="about-container">
         <h2>Sobre</h2>
 
-        <p>Olá, sou o Victor! Tenho 27 anos e sou formado em Análise e Desenvolvimento de Sistemas na UNIFOR. 
-            Minha paixão pela tecnologia sempre esteve presente desde os meus 10 anos de idade. Hoje meu foco 
-            principal é voltado a Desenvolvimento web. Tenho conhecimentos em JavaScript, HTML, CSS, Node.js, 
-            GitHub, React.js, Vite.js e estou mergulhando no TypeScript. Tenho também alguns cursos pela Udemy, 
-            dentre eles POO e React.js. Que, por sinal, também já vi na faculdade.
-        </p>
+        <p>Olá, eu sou o Victor!</p>
 
-        <p>Tive uma experiência como desenvolvedor freelancer, com uma equipe fantástica que ajudou demais no 
-            meu crescimento profissional. Já participei de projetos em várias tecnologias como React.js, Angular 
-            e Laravel. Lá nós usávamos o Bitbucket para trabalhar o código entre a equipe e utilizávamos o Jira 
-            para organizar e dividir as tarefas. Já estou a algum tempo nessa aventura e sinto que estou cada vez 
-            mais capacitado para encarar novos desafios.
-        </p>
+       <p>Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFOR e atualmente estou cursando uma Pós-Graduação em Desenvolvimento Web Full Stack na Faculdade INFNET, referência em tecnologia.</p>
 
-        <p>Fiz esse portfólio com Vite.js, React.js, HTML, JavaScript e o processador Sass, do CSS. Meu objetivo no momento 
-            é continuar crescendo nesse mercado gigantesco. Estou aberto e disponível para novas oportunidades. Então sinta-se 
-            a vontade em conversar sobre vagas comigo.
+        <p>Minha paixão por tecnologia começou cedo, aos 10 anos de idade, e hoje meu foco é o desenvolvimento web. Tenho experiência com diversas ferramentas e tecnologias, como JavaScript, HTML, CSS, Node.js, GitHub, React.js, Vite.js, Next.js, Express e estou me aprofundando em TypeScript. Além disso, já realizei cursos complementares pela Udemy, incluindo POO e React.js, que também foram abordados durante minha formação acadêmica.</p>
+
+        <p>Tive uma experiência enriquecedora como freelancer, colaborando com uma equipe incrível que impulsionou meu desenvolvimento profissional. Durante essa jornada, participei de projetos utilizando tecnologias como React.js, Angular e Laravel, e aprendi a lidar com ferramentas como Bitbucket para versionamento de código e Jira para organização e gerenciamento de tarefas.</p>
+
+        <p>Ao longo dessa caminhada, me sinto cada vez mais preparado para enfrentar novos desafios e contribuir para projetos significativos. Meu objetivo atual é continuar crescendo neste mercado dinâmico e inovador.</p>
+        <p>
+        Se você tem uma oportunidade ou quer conversar sobre tecnologia, estou à disposição! Vamos trocar ideias? 🚀
         </p>
 
     </section>
