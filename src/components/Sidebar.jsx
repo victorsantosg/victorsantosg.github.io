@@ -11,7 +11,7 @@ function Sidebar () {
     <p className="title">Desenvolvedor</p>
     <SocialNetworks/>
     <InformationContainer/>
-    <a href="https://www.canva.com/design/DAFnq41X49M/NT-tQN_IKDPK7Nqt1g3mbA/view?utm_content=DAFnq41X49M&utm_campaign=designshare&utm_medium=link&utm_source=editor" target='_blank' className="btn">
+    <a href="https://drive.google.com/file/d/1brZteB-EBeTuyhju_TedluUPxvHCNUU4/view?usp=sharing" target='_blank' className="btn">
         Download currículo
     </a>
   </aside>
