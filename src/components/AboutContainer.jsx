@@ -9,7 +9,7 @@ function AboutContainer () {
 
        <p>Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIFOR e atualmente estou cursando uma <strong>Pós-Graduação em Desenvolvimento Web Full Stack na Faculdade INFNET</strong>, referência em tecnologia.</p>
 
-        <p>Minha paixão por tecnologia começou cedo, aos 10 anos de idade, e hoje meu foco é o desenvolvimento web. Tenho experiência com diversas ferramentas e tecnologias, como <strong>JavaScript, HTML, CSS, Node.js, GitHub, React.js, Vite.js, Next.js</strong>, Express e estou me aprofundando em <strong>TypeScript.</strong> Além disso, já realizei cursos complementares pela <strong>Udemy</strong>, incluindo <strong>POO e React.js</strong>, que também foram abordados durante minha formação acadêmica.</p>
+        <p>Minha paixão por tecnologia começou cedo, aos 10 anos de idade, e hoje meu foco é o desenvolvimento web. Tenho experiência com diversas ferramentas e tecnologias, como <strong>JavaScript, HTML, CSS, Node.js, GitHub, React.js, Vite.js, Next.js, Express</strong> e estou me aprofundando em <strong>TypeScript.</strong> Além disso, já realizei cursos complementares pela <strong>Udemy</strong>, incluindo <strong>POO e React.js</strong>, que também foram abordados durante minha formação acadêmica.</p>
 
         <p>Tive uma experiência enriquecedora como freelancer, colaborando com uma equipe incrível que impulsionou meu desenvolvimento profissional. Durante essa jornada, participei de projetos utilizando tecnologias como <strong>React.js, Angular e Laravel</strong>, e aprendi a lidar com ferramentas como <strong>Bitbucket</strong> para versionamento de código e <strong>Jira</strong> para organização e gerenciamento de tarefas.</p>
 
