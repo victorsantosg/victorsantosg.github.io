@@ -1,4 +1,5 @@
 import React from 'react';
+import { TbBrandNextjs } from "react-icons/tb";
 import {
     DiHtml5,
     DiCss3,
@@ -18,6 +19,7 @@ const technologies = [
     { id: "node", name: "Node.js", icon: <DiNodejsSmall />},
     { id: "react", name: "React", icon: <DiReact />},
     { id: "github", name: "GitHub", icon: <DiGithub />},
+    { id: "nextjs", name: "Next.js", icon: <TbBrandNextjs />},
 ];
 
 function TechnologiesContainer () {
