@@ -20,6 +20,7 @@ const technologies = [
     { id: "react", name: "React", icon: <DiReact />},
     { id: "github", name: "GitHub", icon: <DiGithub />},
     { id: "nextjs", name: "Next.js", icon: <TbBrandNextjs />},
+    { id: "analiseDados", name: "Analise de Dados", icon: <TbBrandDados />},
 ];
 
 function TechnologiesContainer () {
