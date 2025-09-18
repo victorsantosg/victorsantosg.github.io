@@ -12,11 +12,11 @@ function AboutContainer () {
 <p>Minha paixão por tecnologia começou cedo, aos 10 anos, quando comecei a estudar programação. Hoje, meu foco é <strong>Análise de Dados</strong>, utilizando ferramentas como <strong>Python, Pandas, Plotly, PyAutoGUI, LabelEncoder, SQL</strong> e técnicas de <strong>Machine Learning</strong> para transformar dados em decisões estratégicas. Além disso, tenho experiência em automação de processos e criação de dashboards interativos.</p>
 
 <p>Já realizei cursos práticos, incluindo:</p>
-<ul>
-  <strong>Curso em Vídeo - Python Mundo 1 e 2:</strong> Fundamentos de Python, manipulação de dados e projetos práticos.
-  <strong>Jornada Python – Hashtag Programação:</strong> Projetos aplicados de análise de dados e Machine Learning, utilizando <strong>scikit-learn</strong>, <strong>LabelEncoder</strong> e visualização de dados para insights estratégicos.
-  <strong>POO em Java e React.js - Udemy:</strong> Aprimoramento em lógica, programação orientada a objetos e desenvolvimento front-end.
-</ul>
+
+<p> <strong>Curso em Vídeo - Python Mundo 1 e 2:</strong> Fundamentos de Python, manipulação de dados e projetos práticos.
+<p><strong>Jornada Python – Hashtag Programação:</strong> Projetos aplicados de análise de dados e Machine Learning, utilizando <strong>scikit-learn</strong>, <strong>LabelEncoder</strong> e visualização de dados para insights estratégicos.</p>
+<p><strong>POO em Java e React.js - Udemy:</strong> Aprimoramento em lógica, programação orientada a objetos e desenvolvimento front-end.</p>
+</p>
 
 <p>Tive experiências enriquecedoras como estagiário de desenvolvimento de software, trabalhando em equipe com metodologias ágeis e tecnologias como <strong>React.js, Angular e Laravel</strong>, além de ferramentas de versionamento e gerenciamento como <strong>Bitbucket</strong> e <strong>Jira</strong>.</p>
 
