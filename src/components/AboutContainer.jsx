@@ -13,9 +13,9 @@ function AboutContainer () {
 
 <p>Já realizei cursos práticos, incluindo:</p>
 <ul>
-  <li><strong>Curso em Vídeo - Python Mundo 1 e 2:</strong> Fundamentos de Python, manipulação de dados e projetos práticos.</li>
-  <li><strong>Jornada Python – Hashtag Programação:</strong> Projetos aplicados de análise de dados e Machine Learning, utilizando <strong>scikit-learn</strong>, <strong>LabelEncoder</strong> e visualização de dados para insights estratégicos.</li>
-  <li><strong>POO em Java e React.js - Udemy:</strong> Aprimoramento em lógica, programação orientada a objetos e desenvolvimento front-end.</li>
+  <strong>Curso em Vídeo - Python Mundo 1 e 2:</strong> Fundamentos de Python, manipulação de dados e projetos práticos.
+  <strong>Jornada Python – Hashtag Programação:</strong> Projetos aplicados de análise de dados e Machine Learning, utilizando <strong>scikit-learn</strong>, <strong>LabelEncoder</strong> e visualização de dados para insights estratégicos.
+  <strong>POO em Java e React.js - Udemy:</strong> Aprimoramento em lógica, programação orientada a objetos e desenvolvimento front-end.
 </ul>
 
 <p>Tive experiências enriquecedoras como estagiário de desenvolvimento de software, trabalhando em equipe com metodologias ágeis e tecnologias como <strong>React.js, Angular e Laravel</strong>, além de ferramentas de versionamento e gerenciamento como <strong>Bitbucket</strong> e <strong>Jira</strong>.</p>
