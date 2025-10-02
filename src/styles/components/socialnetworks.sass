@@ -16,6 +16,13 @@ section
         color: #333
         font-size: 1.3rem
         @include mixins.center
+            
+        border-radius: 10px
+        transition: transform 0.2s ease, box-shadow 0.2s ease
+
+        &:hover
+            transform: translateY(-4px)
+            box-shadow: 0px 4px 12px rgba(0,0,0,0.2)
 
     #linkedin
         color: #0072b1
