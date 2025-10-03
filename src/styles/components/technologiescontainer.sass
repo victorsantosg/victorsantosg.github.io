@@ -6,7 +6,7 @@
 
     .technologies-grid
         display: grid
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr))
         gap: 1.5rem
         max-width: 100%
 
@@ -76,6 +76,9 @@
         #analytics
             svg
                 color: #000000
+        
+        #analytics h3
+            font-size: clamp(0.5rem, 2vw, 0.8rem)
 
         #vitejs svg
             width: 3rem
