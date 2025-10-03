@@ -9,7 +9,7 @@
     padding: 1rem
     margin-bottom: 2rem
     text-align: left
-    width: 80%
+    width: 90%
     border-radius: variables.$card-border-radius
 
     .section
@@ -28,16 +28,34 @@
 
     h3
         color: variables.$text-color-secondary 
-        font-size: .8rem
+        font-size: 8rem
         margin-bottom: .5rem
 
     p
         color: variables.$text-color
-        font-weight: bold
-
-    .email-vic
-        font-size: 12px  
+        font-size: 6rem
     
+    .email-vic
+        display: flex
+        flex-direction: column
+        color: variables.$text-color
+        font-size: clamp(0.9rem, 2vw, 1.8rem)
+        padding: 0
+
+
+    .phone-vic
+        display: flex
+        flex-direction: column
+        color: variables.$text-color
+        font-size: .7rem
+
+    .local-vic
+        display: flex
+        flex-direction: column
+        color: variables.$text-color
+        font-size: .7rem
+
+ 
     svg
         background-color: variables.$bg-color
         padding: .4rem
@@ -54,6 +72,8 @@
     #pin-icon
         color: #c17ceb
 
-    
+    .email-vic
+        max-width: 90%
+        font-weight: none  
 
     
